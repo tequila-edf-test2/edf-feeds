@@ -1,8 +1,8 @@
 {
-  "name": "US",
-  "partner": "Delta",
+  "name": "",
+  "partner": "",
   "maxConnectionTime": "",
   "routesNumber": "",
-  "countAvailability": 7,
+  "countAvailability": 0,
   "countMaxStopover": 0
 }
