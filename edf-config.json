@@ -1,1 +1,8 @@
-[object Object]
+{
+  "name": "",
+  "partner": "",
+  "maxConnectionTime": "",
+  "routesNumber": "",
+  "countAvailability": 0,
+  "countMaxStopover": 0
+}
