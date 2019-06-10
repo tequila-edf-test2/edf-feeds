@@ -3,6 +3,6 @@
   "partner": "",
   "maxConnectionTime": "",
   "routesNumber": "",
-  "countAvailability": 5,
-  "countMaxStopover": 2
+  "countAvailability": 0,
+  "countMaxStopover": 0
 }
